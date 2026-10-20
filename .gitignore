@@ -1,0 +1,13 @@
+
+# Skedarë të krijuar gjatë kompilimit
+/build/
+/dist/
+*.class
+
+# Cilësime private të NetBeans
+/nbproject/private/
+
+# Skedarë të sistemit
+.DS_Store
+Thumbs.db
+

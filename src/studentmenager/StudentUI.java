@@ -109,7 +109,6 @@ private void ruajStudentet() {
     try (BufferedWriter writer = Files.newBufferedWriter(
             Paths.get(System.getProperty("user.dir"),"studentet.txt"),
             StandardCharsets.UTF_8)) {
-         
 for(int i=0;i<tabela.getRowCount();i++) {
     int rreshtiModelit=tabela.convertRowIndexToModel(i);
     String id = modeli.getValueAt(rreshtiModelit, 0).toString();

@@ -1,0 +1,8 @@
+506;Anila Hajdini;10.0
+908;Blerim Cene;9.4
+101;Erelinda Meta;8.8
+445;Jasin Hysa;9.2
+122;Klevis Garunja;6.0
+777;Marisa Leka;8.0
+343;Marjo Murati;9.0
+895;Xhesika Malo;7.5
