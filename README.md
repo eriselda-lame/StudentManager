@@ -19,5 +19,6 @@ A Java Swing desktop application for managing students.
 1. Open the project in Apache NetBeans.
 2. Run the `StudentUI` class.
 
+
 ## Author
 Developed by Eriselda Lame
